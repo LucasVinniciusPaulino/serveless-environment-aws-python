@@ -36,5 +36,4 @@ apigateway.put_integration(
     type='AWS_PROXY',
     integrationHttpMethod='POST',
     uri='arn:aws:apigateway:{755674844232}:lambda:path/2015-03-31/functions/{lambda_arn}/invocations'
-   #uri='arn:aws:apigateway:{region}:lambda:path/2015-03-31/functions/{lambda_arn}/invocations'
 )
