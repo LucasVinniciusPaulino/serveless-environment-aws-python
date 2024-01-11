@@ -3,7 +3,7 @@
 ## Descrição
 Este projeto demonstra a integração de recursos da AWS, utilizando DynamoDB para armazenar informações, API Gateway para fornecer acesso autorizado e uma Função Lambda para notificar em tempo real por e-mail sempre que houver acesso ao DynamoDB.
 
-# Objetivo
+## Objetivo
 Demonstrar uma aplicação desenvolvida em Python para criar, configurar e gerenciar serviços da AWS para consulta de informações no DynamonDB.
 
 ## Funcionalidades
